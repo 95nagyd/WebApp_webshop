@@ -11,7 +11,7 @@
 
     <artifactId>webshop-controller</artifactId>
 
-    <name>webshop.controller</name>
+    <name>webshop-controller</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 

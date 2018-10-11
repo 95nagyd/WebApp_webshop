@@ -12,7 +12,7 @@
     <artifactId>webshop-web</artifactId>
     <packaging>war</packaging>
 
-    <name>webshop.web Maven Webapp</name>
+    <name>webshop-web Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -38,7 +38,7 @@
     </dependencies>
 
     <build>
-        <finalName>webshop.web</finalName>
+        <finalName>webshop-web</finalName>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>
